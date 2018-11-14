@@ -63,7 +63,7 @@
 
             <!--Navbar Dropdown-->
             <!--================================-->
-            @include('layouts.includes.navbar')
+            @include('NEW_THEME.layouts.includes.navbar')
             <!--================================-->
             <!--End Navbar Dropdown-->
 
@@ -91,7 +91,7 @@
 
                 <!--Breadcrumb-->
                 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-                @include('layouts.includes.breadcrumb')
+                @include('NEW_THEME.layouts.includes.breadcrumb')
                 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
                 <!--End breadcrumb-->
 
@@ -113,7 +113,7 @@
         <!--END CONTENT CONTAINER-->
 
 
-        @include('layouts.includes.sidemenu')
+        @include('NEW_THEME.layouts.includes.sidemenu')
 
 
     </div>

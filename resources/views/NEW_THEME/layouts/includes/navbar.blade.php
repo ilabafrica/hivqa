@@ -16,7 +16,7 @@
 
                     @if(auth()->check())
 
-                        {{auth()->user()->name()}}
+                        {!! Auth::user()->name !!}
 
                     @endif
 
